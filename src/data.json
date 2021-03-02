@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "name": "Sakib Al Hasan",
+      "username": "al-hasan",
+      "dob":"Mar 24, 1987",
+      "age":"33 years",
+      "email": "al-hasan@april.biz",
+      "img":"https://i.postimg.cc/PJ1TTTSD/sakib.jpg",
+      "salary":1,
+      "basePrice":1.3,
+      "yIncome":"70177.18",
+      "role":"All-rounder",
+      "wranking":"1",
+      "address": {
+        "street": "Mirpur, Dhaka, Bangladesh",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "01770736803",
+      "publicPage": "https://www.facebook.com/Shakib.Al.Hasan/",
+      "brandAmbassador": {
+        "brandName": "Grameenphone",
+        "endorsementFee": "5 million",
+        "duration": "jun-2020-pressent"
+      },
+      "team":"Bangladesh"
+    },
+    {
+        "id": 2,
+        "name": "Mustafizur Rahmand",
+        "username": "fizz",
+        "dob":"Sep 06, 1995",
+        "age":"25 years",
+        "email": "fizz@gmail.com",
+        "img":"https://i.postimg.cc/QdPHSxKg/Mustafizur-Rahman.jpg",
+        "salary":0.3,
+        "basePrice":0.7,
+        "yIncome":"35017",
+        "role":"Bowler",
+        "wranking":"8",
+        "address": {
+          "street": "Satkhira, Bangladesh",
+          "suite": "Apt. 556",
+          "city": "Gwenborough",
+          "zipcode": "92998-3874",
+          "geo": {
+            "lat": "-37.3159",
+            "lng": "81.1496"
+          }
+        },
+        "phone": "01777736803",
+        "publicPage": "https://www.facebook.com/Official.Mustafizur90/",
+        "brandAmbassador": {
+          "brandName": "Kinly Drinking Water",
+          "endorsementFee": "1 million",
+          "duration": "jun-2018-2020"
+        },
+        "team":"Bangladesh"
+      },
+      {
+        "id": 3,
+        "name": "Virat Kohli",
+        "username": "lala",
+        "dob":"Nov 05, 1988",
+        "age":"32 years",
+        "email": "kohli@gmail.com",
+        "img":"https://i.postimg.cc/QdPHSxKg/Mustafizur-Rahman.jpg",
+        "salary": 2,
+        "basePrice": 5,
+        "yIncome":"84818300",
+        "role":"Batsman",
+        "wranking":"2",
+        "address": {
+          "street": "Satkhira, Bangladesh",
+          "suite": "Apt. 556",
+          "city": "Gwenborough",
+          "zipcode": "92998-3874",
+          "geo": {
+            "lat": "-37.3159",
+            "lng": "81.1496"
+          }
+        },
+        "phone": "0970736803",
+        "publicPage": "https://www.facebook.com/virat.kohli/",
+        "brandAmbassador": {
+          "brandName": "Mrf",
+          "endorsementFee": "10 million",
+          "duration": "jun-2016-2020"
+        },
+        "team":"Bangladesh"
+      }
+]
