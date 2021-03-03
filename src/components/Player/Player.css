@@ -1,0 +1,40 @@
+.customcard{
+
+    box-shadow: 1px 6px 10px black;
+}
+.card img{
+    height: 150px;
+    width: 100%;
+}
+.card-body{
+    line-height: 16px;
+    height:300px;
+}
+.card-title{
+    font-size: 12px;
+}
+.age{
+    font-size: 8px;
+    font-weight: 500;
+    color: gray;
+}
+.commonStyling{
+    font-size: 14px;
+    font-weight: 600;
+}
+.wranking{
+    font-size:10px;
+    font-weight:400;
+}
+.countryname{
+    color: rgb(15, 34, 93);
+    font-size: 12px;
+}
+.income{
+    font-size: 12px;
+    padding: 3px;
+}
+.rate{
+    font-size: 12px;
+    padding: 3px;
+}
